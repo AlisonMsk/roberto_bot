@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const { READY } = require('./events/types.js');
 const { loadAudioStream } = require('./handlers/audioStream.js')
 
-const token = 'OTQxNTI5NzY0OTc0NDUyNzY3.YgXR7A.hwdcfH5VLhqeOknMhYoLRQcFpDA';
+const token = 'OTQxNTUxNzIyODg1Njg1Mjg4.YgXmXw.8yKqV102OY_IKxwI_ETQlMXKoZ0';
 console.log(token)
 
 const bot = new Discord.Client();
